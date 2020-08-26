@@ -1,0 +1,2 @@
+test commit to remote by url method - it need to input user name and passward everytime.
+
